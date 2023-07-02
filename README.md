@@ -33,26 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/Java-DD5353?style=for-the-badge&logo=java&logoColor=white)
 
-<br>
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-DD5353?style=for-the-badge&logo=angular&logoColor=ffffff)
-<br>
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-[//]: # (![Nodejs]&#40;https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff&#41;)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-<br/>
-
 ---
 
 ## 🛠️ My favorite tools
@@ -60,13 +40,13 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a> -->
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -100,10 +80,10 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/SatohJiro/Nhom24-AppTinTuc_FE_Thu2Ca4_2022"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=Nhom24-AppTinTuc_FE_Thu2Ca4_2022&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Nhom24-AppTinTuc_FE_Thu2Ca4_2022"></a>
+<!--   <a href="https://github.com/SatohJiro/Nhom24-AppTinTuc_FE_Thu2Ca4_2022"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=Nhom24-AppTinTuc_FE_Thu2Ca4_2022&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Nhom24-AppTinTuc_FE_Thu2Ca4_2022"></a>
   <a href="https://github.com/SatohJiro/FE_Game_Brick_Breaker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=FE_Game_Brick_Breaker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/SatohJiro/Genetic_algorithm_SudokuGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=Genetic_algorithm_SudokuGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Genetic_algorithm_SudokuGame"></a>
- <a href="https://github.com/SatohJiro/DFS-BFS-Dijkstra_Algorithm_Demo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=DFS-BFS-Dijkstra_Algorithm_Demo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="DFS-BFS-Dijkstra_Algorithm_Demo"></a>
+ <a href="https://github.com/SatohJiro/DFS-BFS-Dijkstra_Algorithm_Demo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=DFS-BFS-Dijkstra_Algorithm_Demo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="DFS-BFS-Dijkstra_Algorithm_Demo"></a> -->
 </p>
 
 
