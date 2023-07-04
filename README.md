@@ -23,14 +23,12 @@
 
 ## I'm a student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m a lifelong learner of everything 🤣
 - 👯 I’m looking for a place to training my skill with other developer
-- 🥅 2022 Goals: Learn more about programming technology and english
-- ⚡ Fun fact: I love to play game, listen to music and travel abroad
+- 🥅 2023 Goals: Learn more about programming technology and English
+- ⚡ Fun fact: I love to listen to music and travel abroad
 
 ### 🛠 &nbsp;Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/Java-DD5353?style=for-the-badge&logo=java&logoColor=white)
 
 ---
